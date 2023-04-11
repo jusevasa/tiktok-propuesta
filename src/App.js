@@ -18,7 +18,7 @@ function App() {
       icon: 'success',
       confirmButtonText: 'Cool'
     }).then(() => {
-      window.location.href = 'https://www.youtube.com/watch?v=rzNiP2fbUio&ab_channel=CloudyNetwork'
+      window.location.href = 'https://www.youtube.com/watch?v=DBP4vCd0hSk'
     })
   }
 
